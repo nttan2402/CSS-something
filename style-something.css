@@ -1,0 +1,29 @@
+.container {
+	border: 1px solid #EEE;
+	background-color: #2A3945;
+	width: 512px;
+	height: 512px;
+	border-radius: 10px;
+}
+.item1{
+	display: flex;
+	position: relative;
+	border: 1px solid #BBB;
+	padding: 20px;
+}
+.overlay1 {
+	width: 100px;
+	height: 100px;
+	border-radius: 30px;
+	background-color: #00C57A;
+
+}
+.text {
+	border: 1px solid #EEE;
+}
+.icon1 {
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	height: 25%;
+}
